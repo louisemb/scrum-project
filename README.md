@@ -9,6 +9,7 @@ Ryoko
 Ryota
 
 ===Website Brief===
+
 The client would like us to build a responsive website called MakeYourVoteUp which is targeted at young adults of both genders. The goal of the website is to help a Canadian citizen to decide who they should vote for in the next general election. This is done by providing information on the relevant parties and making it easier for the user to compare and contrast. The website must also provide a log in and members section which allows the user to cast votes for parties if they like where they stand on certain issues. The culmination of these votes should indicate which party the user is aligned closest to. There must also be an email subscription service that will send a HTML formatted email to the user when they first subscribe. The website should inform and excite the user to politics.
 The website should display information for the following 6 major federal political parties of Canada.
 Liberal Party of Canada
@@ -19,6 +20,7 @@ Green Party of Canada
 Libertarian Party of Canada
 
 ===Product Backlog===
+
 As a visitor I can select one of the Canadian parties and view information related to their history, leader, prominent party policies and their current position in the Canadian Government.
 
 As a visitor I should be able to navigate to one of the other parties easily when viewing them in the above section.
