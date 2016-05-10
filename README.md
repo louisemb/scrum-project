@@ -1,11 +1,16 @@
 This is the repository for our team's scrum project.
 The project is a responsive website that will inform young Canadians about 6 federal political parties, with a comparison tool and log-in functionality.
 
-Team Water:
+Team Members:
+
 Louise
+
 Matsuko (songkoko)
+
 Sheila
+
 Ryoko
+
 Ryota
 
 ===Website Brief===
