@@ -3,7 +3,7 @@ The project is a responsive website that will inform young Canadians about 6 fed
 
 Team Members:
 
-Louise
+Louise Master (louisemb)
 
 Matsuko (songkoko)
 
